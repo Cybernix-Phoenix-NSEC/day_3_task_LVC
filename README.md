@@ -1,5 +1,4 @@
-# Biodata
-**Name-**  *Aniruddha Dhar Chowdhury*
+# Hi, I am Aniruddha Dhar Chowdhury
 
 **College-** *Techno International New Town*
 
