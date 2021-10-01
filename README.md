@@ -1,12 +1,27 @@
-# Day 3 task of LVC
+#introduction
+hello, i am Soham
+## 😄 BASIC DETAILS:
+**NAME**-*soham*
 
-### This is the repo where you have to submit your day 3 task. Just simply create a ReadMe file with your introduction as it was shown in day 3 and you are good to go !
-### There should a h1 line at the top of the .md file where you have to mention your name like this:
+**CITY**-*Howrah*
 
-# Hi, I am ...... / Hi, my name is .......
+<img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
+**COLLEGE NAME**-*NSEC*
+<img src="https://img.icons8.com/ios-glyphs/60/000000/student-center.png"/>
 
-### Make the introduction repo like [Shweta Laha](https://github.com/shweta-laha) showed how to create one on day 3. You can see her repo [here](https://github.com/shweta-laha/DAY-3) . Remember the necessary conditions :)
-### There should a gap between the sentences in the .md file
-### You have to enter minimum 3-4 lines after introducing your name.
-### deadline: 2nd October 2021 7:00pm
-### Also this is a Hacktoberfest repo.
+## 🚀 MY SKILLS :
+| s.no| skill|
+|---|---|
+| 1.| HTML & CSS|
+| 2.|C|
+| 3.|web development|
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/fluency/48/000000/backend-development.png"/>
+
+
+## ▶️ LANGUAGE KNOWN:
+- Bengali
+- English
+- Hindi
+
+<img src="https://img.icons8.com/cute-clipart/64/000000/language.png"/>
