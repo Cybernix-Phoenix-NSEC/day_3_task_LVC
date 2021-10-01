@@ -1,14 +1,18 @@
-# ABOUT ME 
+# INTRODUCTION 👋
 
-### HEY CODERS
+*Hi there :smile:, My name is Sujay Paul currently in First year of NSEC. :school:*
 
-I am a 17 y/o beginner programmer,
+## ABOUT ME 🧑‍🦱:
 
-Have an interest in coding ... 
+**NAME -** *Sujay Paul*
 
-From INDIA !! 🇮🇳
+**COLLEGE -** *Netaji Subhash Engineering College*
 
-## I am currently learning
-- Python  
-- HTML
+**CITY -** *Kolkata*
+
+### 💠 CURRENTLY LEARNING 💠
+
 - C++
+- HTML
+- SQl
+- Python
