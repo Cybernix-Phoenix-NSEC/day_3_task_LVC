@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryaraj Baranwal</h1>
 <h3 align="center">I am from Asansol Engineering College.</h3>
-<img align="right" alt="GIF" src="https://github.com/b-suryaraj/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/b-suryaraj/day_3_task_LVC/blob/master/suryaraj/code.gif?raw=true" width="436" height="280" />
 - 🌱 I’m currently learning **All the different languages and frameworks**
 
 - 📫 How to reach me **suryaraj.srb112@gmail.com**
