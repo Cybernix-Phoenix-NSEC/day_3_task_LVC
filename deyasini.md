@@ -14,3 +14,5 @@ Some of my favourite genres being:
 - *Graphic novels*
 
 I'm also a music enthusiast, my favourite pop artist is Taylor Swift✨✨
+
+### «peace out»✌
