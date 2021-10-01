@@ -5,7 +5,7 @@
 
 # Hi, I am ...... / Hi, my name is .......
 
-### Make the introduction repo like [Shweta Laha](https://github.com/shweta-laha) showed how to create one on day 3. You can see her repo [here](https://github.com/shweta-laha/DAY-3) .
+### Make the introduction repo like [Shweta Laha](https://github.com/shweta-laha) showed how to create one on day 3. You can see her repo [here](https://github.com/shweta-laha/DAY-3) . Remember the necessary conditions :)
 ### There should a gap between the sentences in the .md file
 ### You have to enter minimum 3-4 lines after introducing your name.
 ### deadline: 2nd October 2021 7:00pm
