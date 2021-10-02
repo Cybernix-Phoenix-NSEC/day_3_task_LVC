@@ -1,5 +1,4 @@
-# Introduction
-👋***Hi, I am Ayushi Moitra from Netaji Subhash Engineering College and I am pursuing Btech in CSE (1st year).***
+# 👋***Hi, I am Ayushi Moitra from Netaji Subhash Engineering College and I am pursuing Btech in CSE (1st year).*** #
 
 ## Basic Details ## 
 
