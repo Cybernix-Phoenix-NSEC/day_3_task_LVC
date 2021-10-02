@@ -1,5 +1,5 @@
 # Introduction 🚀
-Hey👋 I'm Sanu Singh of  Netaji Subhash Engineering College, Currently I'm in !st yr of Information Technology.
+## Hey👋 I'm Sanu Singh of  Netaji Subhash Engineering College, Currently I'm in !st yr of Information Technology.
 
 ## 💠 Basic Details
 
