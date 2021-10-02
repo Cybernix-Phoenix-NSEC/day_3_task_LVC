@@ -20,3 +20,5 @@
 
 
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mukherjeesoumik700@gmail.com)
+[<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/soumik-mukherjee-329a63220)
+
