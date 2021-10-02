@@ -17,3 +17,6 @@
 | Language |
 |----|
 *Bengali, English, Hindi*
+
+
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mukherjeesoumik700@gmail.com)
