@@ -1,6 +1,7 @@
 # Introduction
 
-# Hi, I'm Sujoy Nath from Netaji Subhash Engineering College, Currently I'm in 1st yr of Computer Science and Business System.
+# Hi, I'm Sujoy Nath .
+## I from Netaji Subhash Engineering College, Currently in 1st yr of Computer Science and Business System.
 
 ## Basic Details
 **NAME** - *Sujoy Nath*
