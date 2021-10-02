@@ -1,0 +1,31 @@
+# INRODUCTION
+I AM BISHAL RAWANI FROM NSEC FIRST YEAR 
+
+## BASIC DETSAILS 
+**NAME** *BISHAL RAWANI*
+
+ **CITY** *KOLKATA*
+ 
+ ###  COLLEGE DETAILS
+ **COLLEGE NAME** *NETAJI SUBASH ENGINEERING COLLEGE*
+ 
+ #### LANGUAGE KNOWN
+ |S.NO|LANGUAGE|
+ |----|--------|
+ |1.|ENGLISH|
+ |2.|HINDI|
+ |3.|BENGALI|
+ 
+ ##### PROGRAMMING LANUAGE KNOWN
+ * C
+ * C++
+ * PYTHON
+ * JAVA
+ 
+ THIS IS MY LINK
+ [CLICK ON THIS](https://github.com/Cybernix-Phoenix-NSEC/day_3_task_LVC/new/master)
+
+ 
+ 
+ 
+ 
