@@ -8,8 +8,6 @@
 
 ##### Currently I'm pursuing Btech from NETAJI SUBHASH ENGINEERING COLLEGE, KOLKATA
 
-
-
 | Hobbies |
 | ---|
 *Gardening*🎍
