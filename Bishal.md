@@ -1,6 +1,5 @@
-![Screenshot (14)](https://user-images.githubusercontent.com/91667727/135666778-ae9726fc-2b34-4af5-9f62-11db3f2aaf66.png)
 # introduction
-i am bishal rawani and i studied from nsec first year 
+I AM BISHAL RAWANI  and i studied from nsec first year 
  
  ## basic details 
  **name** *BISHAL RAWANI*
@@ -36,6 +35,6 @@ i am bishal rawani and i studied from nsec first year
  this is my profile link
  [click on this](https://github.com/BISHALRAWANI/day3/edit/main/README.md)
  
- 
+ ![Screenshot (14)](https://user-images.githubusercontent.com/91667727/135666778-ae9726fc-2b34-4af5-9f62-11db3f2aaf66.png)
 
 
